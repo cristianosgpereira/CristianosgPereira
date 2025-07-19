@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size:20px;">** `Em fase de aprendizado HTML, CSS, JAVA SCRIPT`** </p>
 
-<p style="font-size:19px;"> Me chamo Cristiano Pereira de Souza, tenho 44 anos e sou do Rio de Jeniro. Concluí o ensino supeior na Anhanguera, Niterói, RJ, com o curso de Ciências da Computação. Atualmente, estou em fase de aprendizado em HTML, CSS, JAVA SCRIPT. Sou apaixonada por tecnologia e busco minha primeira oportunidade na área.
+<p style="font-size:19px;"> Me chamo Cristiano Pereira de Souza, tenho 44 anos e sou do Rio de Jeniro. Concluí o ensino supeior na Anhanguera, Niterói, RJ em 2025, com o curso de Ciências da Computação. Atualmente, estou em fase de aprendizado em HTML, CSS, JAVA SCRIPT. Sou apaixonada por tecnologia e busco minha primeira oportunidade na área.
 </p>
 
 <p align="center">
